@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=82a1493bxhxsix9jz47gredheim2addlv0bcj88jdnd43fy6&ep=v1_gifs_related&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan9106&label=Profile%20views&color=0e75b6&style=flat" alt="chandan9106" /> </p>
 
